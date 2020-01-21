@@ -1,0 +1,8 @@
+transaksi
+pilih kurir
+pilih rekening
+
+tampil pembayaran
+rekening
+kode unik
+total bayar
